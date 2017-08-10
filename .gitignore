@@ -1,5 +1,4 @@
 build/**
-dist/**
 NDdata/**
 node_modules/
 tests/
